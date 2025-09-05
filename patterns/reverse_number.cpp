@@ -14,6 +14,6 @@ int ReverseNumber(int number) {
     return rev_num;
 }
 int main() {
-    cout <<"reverse of number: " << ReverseNumber(314) << endl;
+    cout <<"reverse of number: " << ReverseNumber(-314) << endl;
     return 0;
 }
